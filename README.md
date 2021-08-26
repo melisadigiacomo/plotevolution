@@ -21,7 +21,7 @@ I used the bill length (mm) for the example graphs.
 
 
 ## Displaying Data
-Inspire by [Cédric Scherer](https://twitter.com/CedScherer?s=20), I wrote a code to display, step by step, how to make a better data visualization using ggplot2 and ggpubr packages.
+Inspired by [Cédric Scherer](https://twitter.com/CedScherer?s=20), I wrote a code to display, step by step, how to make a better data visualization using ggplot2 and ggpubr packages.
 
 ### A default boxplot
 ![Plot](https://github.com/melisadigiacomo/plotevolution/blob/master/images/plot.png)&nbsp;
