@@ -1,6 +1,9 @@
 # Evolution of a plot: Project Overview 
 * This code shows graphically how some changes make a significant improvement in data viz. 
 
+https://user-images.githubusercontent.com/87764919/131042543-a7fdb99a-12af-44a7-99f8-1947ba0d4fd0.mp4
+
+
 ## Code and Resources Used 
 **R Version:** 3.6.3  
 **Packages:** ggplot2, ggpubr, palmerpenguins, magrittr
